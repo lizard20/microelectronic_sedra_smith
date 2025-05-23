@@ -10,6 +10,6 @@ pip install astropy
 ```
 2.- Download the repository of the library
 ```bash
-git clone git clone https://github.com/lizard20/microelectronic_sedra_smith.git
+git clone https://github.com/lizard20/microelectronic_sedra_smith.git
 ```
 3.-
