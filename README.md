@@ -33,3 +33,10 @@ print(f"Exercise 3.1:")
 print(f"n_i({T_1:.0f}) = {n_i_1:0.2E}")
 print(f"n_i({T_2:.0f}) = {n_i_2:0.2E}")
 ```
+To execute
+```bash
+$ python exercise_3_1.py 
+Exercise 3.1:
+n_i(50 K) = 9.25E-39 1 / cm3
+n_i(350 K) = 4.13E+11 1 / cm3
+```
