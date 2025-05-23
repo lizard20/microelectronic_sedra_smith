@@ -51,3 +51,11 @@ Exercise 3.1:
 n_i(50 K) = 9.25E-39 1 / cm3
 n_i(350 K) = 4.13E+11 1 / cm3
 ```
+
+## Solved exercises and problems from chapter 3
+We have included the files:
+chapter_3_exercises.py
+chapter_3_problems.py
+
+
+
