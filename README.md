@@ -22,8 +22,11 @@ Exercise 3.1
 Calculate the intrinsic carrier density n<sub>i</sub> for silicon at T = 50 K and 350 K.
 
 ```python
-# exercise_3_1.py
-# Author: Aldo Nunez Tovar
+'''
+    exercise_3_1.py
+
+    Author: Aldo Nunez Tovar
+'''
 
 import semiconductor as sc
 from astropy import units as u 
