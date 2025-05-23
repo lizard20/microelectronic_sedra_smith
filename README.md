@@ -1,6 +1,9 @@
 # microelectronic_sedra_smith
 A library written in Python for Microelectronic circuits book, chapter 3, by Sedra-Smith. 7th. edition
 
+Name:  semiconductor.py
+
+email: aldo.nunez.2025@gmail.com
 
 ## Getting started
 Python version: 3.11.5
