@@ -13,10 +13,9 @@ pip install astropy
 git clone https://github.com/lizard20/microelectronic_sedra_smith.git
 ```
 ## How to use it
-In your working subdir must be the `semiconductor.py` module
-
-
-
+- Put the `semiconductor.py` module in your working sub directory
+- Example: `exercise_3_1.py`
+- 
 ## Examples:
 
 Exercise 3.1 
