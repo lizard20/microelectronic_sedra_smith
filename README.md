@@ -43,9 +43,9 @@ print(f"n_i({T_2:.0f}) = {n_i_2:0.2E}")
 ```
 To execute
 ```bash
-$ python exercise_3_1.py 
+python exercise_3_1.py 
 ```
-
+Outcome:
 ```
 Exercise 3.1:
 n_i(50 K) = 9.25E-39 1 / cm3
