@@ -165,7 +165,6 @@ def exercise_3_16():
     print(f"tau_p = {tau_p.to(u.ns):2.1f}")
     print(f"C_d = {C_d.to(u.pF):2.1f}")
 
-
 def main():
     exercise_3_1()
     input("\nPress Enter")
@@ -188,8 +187,6 @@ def main():
     exercise_3_14()
     input("\nPress Enter")
     exercise_3_16()
-    
-
 
 if __name__ == "__main__":
     main()
