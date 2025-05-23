@@ -8,7 +8,7 @@ A library written in Python for Microelectronic circuits book, chapter 3, by Sed
 ```bash
 pip install astropy 
 ```
-2.- Download the repository of the library
+2.- Download the repository
 ```bash
 git clone https://github.com/lizard20/microelectronic_sedra_smith.git
 ```
