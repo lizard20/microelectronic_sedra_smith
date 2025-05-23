@@ -16,11 +16,11 @@ git clone https://github.com/lizard20/microelectronic_sedra_smith.git
 ```
 ## How to use it
 - Put the `semiconductor.py` module in your working sub directory
-- Use this example:
+- Example:
 
 Exercise 3.1 
-Calculate the intrinsic carrier density n<sub>i</sub> for silicon at T = 50 K and 350 K.
 
+Calculate the intrinsic carrier density n<sub>i</sub> for silicon at T = 50 K and 350 K.
 ```python
 '''
     exercise_3_1.py
