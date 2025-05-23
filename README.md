@@ -4,7 +4,7 @@ A library written in Python for microelectronic circuits book, chapter 3, by Sed
 
 ## Getting started
 ## Installing
-1.- To use the library first install the library astropy
+1.- To use the library first install the library `astropy`
 ```bash
 pip install astropy 
 ```
