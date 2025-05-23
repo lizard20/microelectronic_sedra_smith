@@ -3,8 +3,10 @@ A library written in Python for Microelectronic circuits book, chapter 3, by Sed
 
 
 ## Getting started
+Python version: 3.11.5
+
 ## Installing
-1.- To use the library first install the library `astropy`
+1.- To use the library install the library `astropy`
 ```bash
 pip install astropy 
 ```
@@ -14,12 +16,11 @@ git clone https://github.com/lizard20/microelectronic_sedra_smith.git
 ```
 ## How to use it
 - Put the `semiconductor.py` module in your working sub directory
-- Example: `exercise_3_1.py`
-- 
-## Examples:
+- Use this example:
 
 Exercise 3.1 
 Calculate the intrinsic carrier density n<sub>i</sub> for silicon at T = 50 K and 350 K.
+
 ```python
 # exercise_3_1.py
 # Author: Aldo Nunez Tovar
@@ -40,6 +41,9 @@ print(f"n_i({T_2:.0f}) = {n_i_2:0.2E}")
 To execute
 ```bash
 $ python exercise_3_1.py 
+```
+
+```
 Exercise 3.1:
 n_i(50 K) = 9.25E-39 1 / cm3
 n_i(350 K) = 4.13E+11 1 / cm3
