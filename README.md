@@ -12,4 +12,7 @@ pip install astropy
 ```bash
 git clone https://github.com/lizard20/microelectronic_sedra_smith.git
 ```
-3.-
+Examples:
+
+Exercise 3.1 
+Calculate the intrinsic carrier density n_i for silicon at T = 50 K and 350 K.
