@@ -1,5 +1,5 @@
 # microelectronic_sedra_smith
-A library written in Python for microelectronic circuits book, chapter 3, by Sedra-Smith. 7th. edition
+A library written in Python for Microelectronic circuits book, chapter 3, by Sedra-Smith. 7th. edition
 
 
 ## Getting started
